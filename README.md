@@ -1,8 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application was used with Vite and React. 
+It is a simple application to find quotes based on a category selected. 
+The application is connected to an API by API Ninjas. This is where the random quote is pulled from. 
+When the quote is shown to the user, there is a functionality of being able to search the author of quote on google by pressing the name. 
